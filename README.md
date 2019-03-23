@@ -3,8 +3,8 @@
 # Status
 
 Chapter 1 - Completed
-Chapter 2 - Work In Progress
-Chapter 3 - 
+Chapter 2 - Completed
+Chapter 3 - Work In Progress
 Chapter 3-Alt - 
 
 # Notes
